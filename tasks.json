@@ -2,6 +2,11 @@
   "username": "jbug",
   "email": "despainjonah@gmail.com",
   "scheduleEnabled": true,
-  "tasks": [],
-  "lastSynced": "2026-07-20T01:47:07.034Z"
+  "tasks": [
+    {
+      "name": "Seminar presintaion",
+      "date": "2026-09-11"
+    }
+  ],
+  "lastSynced": "2026-09-09T14:21:29.265Z"
 }
