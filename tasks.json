@@ -2,15 +2,6 @@
   "username": "jbug",
   "email": "despainjonah@gmail.com",
   "scheduleEnabled": true,
-  "tasks": [
-    {
-      "name": "Seminar presintaion",
-      "date": "2026-09-11"
-    },
-    {
-      "name": "math Test",
-      "date": "2026-09-11"
-    }
-  ],
-  "lastSynced": "2026-09-29T14:22:52.987Z"
+  "tasks": [],
+  "lastSynced": "2026-09-29T14:23:00.328Z"
 }
