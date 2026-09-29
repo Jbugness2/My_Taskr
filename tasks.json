@@ -4,7 +4,7 @@
   "scheduleEnabled": true,
   "tasks": [
     {
-      "name": "Final Draft",
+      "name": "English Final Draft",
       "date": "2026-10-07"
     },
     {
@@ -12,5 +12,5 @@
       "date": "2026-10-05"
     }
   ],
-  "lastSynced": "2026-09-29T14:24:04.227Z"
+  "lastSynced": "2026-09-29T14:24:11.755Z"
 }
