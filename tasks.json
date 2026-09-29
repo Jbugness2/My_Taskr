@@ -2,6 +2,11 @@
   "username": "jbug",
   "email": "despainjonah@gmail.com",
   "scheduleEnabled": true,
-  "tasks": [],
-  "lastSynced": "2026-09-29T14:23:00.328Z"
+  "tasks": [
+    {
+      "name": "Rough Draft",
+      "date": "2026-10-05"
+    }
+  ],
+  "lastSynced": "2026-09-29T14:23:33.828Z"
 }
