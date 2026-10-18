@@ -2,15 +2,6 @@
   "username": "jbug",
   "email": "despainjonah@gmail.com",
   "scheduleEnabled": true,
-  "tasks": [
-    {
-      "name": "English Final Draft",
-      "date": "2026-10-07"
-    },
-    {
-      "name": "English Rough Draft",
-      "date": "2026-10-05"
-    }
-  ],
-  "lastSynced": "2026-10-18T23:41:49.545Z"
+  "tasks": [],
+  "lastSynced": "2026-10-18T23:41:53.529Z"
 }
